@@ -4,8 +4,7 @@
 
 Code the lights on the micro:bit into a flashing heart animation! 💖
 
-[Heart shape in the LEDs](<iframe width="100" height="80" src="https://www.youtube.com/embed/52wx1nHnCQ8?si=O12WZm0VKr3HTLIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
-
+![Heart shape in the LEDs](a4-motion.png)
 ## {Step 1}
 
 Click on the ``||basic:Basic||`` category in the Toolbox. 
